@@ -1,5 +1,7 @@
 #!/usr/bin/python
-# -*- coding:utf-8 -*-
+# -*- coding:utf-8 -*-pipi
+
+from urllib import request
 
 baseUrl=""
 
